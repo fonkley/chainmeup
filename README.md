@@ -2,11 +2,11 @@
 This is an attempt at creating a custom Effect Rack that should be good for any type of 808, bass or synth.
 Includes 4 chain options.
 
-# Requirements
+## Requirements
 - Ableton Live 12.0.0 or above
 - SerumFX plugin (32-bit vst)
 
-# How to use
+## How to use
 - First, select which chain you would like to use with the "Chain Select" macro.
 - Then, dial in how much of the chain's effect you would like to use with the macro that corresponds to your chain selection.
 - Finally, use the "Limiter" macro to taste.
@@ -14,6 +14,6 @@ Includes 4 chain options.
 
 If you want, you could also select the (R) button to the left of the rack's name for a completely randomized selection for each macro, excluding the "Limiter" macro.
 
-# Installation
-## Windows
+## Installation
+### Windows
 
