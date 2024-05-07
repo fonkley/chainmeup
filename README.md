@@ -31,5 +31,5 @@ If you want, you could also select the (R) button to the left of the rack's name
     ```
 - Then, go to the [Releases page](https://github.com/fonkley/chainmeup/releases/)
   - Download `Chain me up.adg`
-<br>
+<br> </br>
 - Finally, move the `Chain me up.adg` file from your downloads folder, to the `\Audio Effect Rack` directory.
