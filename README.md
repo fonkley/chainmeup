@@ -11,4 +11,5 @@ Includes 4 chain options.
 - Then, dial in how much of the chain's effect you would like to use with the macro that corresponds to your chain selection.
 - Finally, use the "Limiter" macro to taste.
 - - (RECOMMENDED: These effects can be LOUD)
+
 If you want, you could also select the (R) button to the left of the rack's name for a completely randomized selection for each macro, exclusing the "Limiter" macro.
