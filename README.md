@@ -12,4 +12,8 @@ Includes 4 chain options.
 - Finally, use the "Limiter" macro to taste.
 - - (RECOMMENDED: These effects can be LOUD)
 
-If you want, you could also select the (R) button to the left of the rack's name for a completely randomized selection for each macro, exclusing the "Limiter" macro.
+If you want, you could also select the (R) button to the left of the rack's name for a completely randomized selection for each macro, excluding the "Limiter" macro.
+
+# Installation
+## Windows
+
