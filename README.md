@@ -29,4 +29,6 @@ If you want, you could also select the (R) button to the left of the rack's name
     ```
     [Ableton User Library]\Presets\Audio Effects\Audio Effect Rack
     ```
-- Then, download the .adg file 
+- Then, go to the [Releases page](https://github.com/fonkley/chainmeup/releases/)
+  - Download `Chain me up.adg`
+- Finally
