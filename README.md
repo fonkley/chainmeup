@@ -1,7 +1,12 @@
+<div align="center">
 # Chain me up (Ableton Effect Rack)
 This is an attempt at creating a custom Effect Rack that should be good for any type of 808, bass or synth.
 
 Includes 4 chain options.
+
+
+<img src=".github/example.jpg" alt="Quickemu" width="256" />
+</div>
 
 ## Requirements
 - Ableton Live 12.0.0 or above
