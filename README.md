@@ -18,8 +18,12 @@ If you want, you could also select the (R) button to the left of the rack's name
 ## Installation
 ### Windows
 - First, locate your Ableton User Library.
-  - To do this, open Ableton Live and select Options > Preferences > Library <br>
-    Under "Content Locations", you will find your User Library's directory under the option "Location of User Library".
+  - To do this, open Ableton Live and select Options > Preferences > Library
+  - Under "Content Locations", you will find your User Library's directory under the option "Location of User Library".
+  - The most common location of your User Library is
+    ```
+    C:\Users\[username]\Documents\Ableton\User Library
+
 
 
 
