@@ -19,7 +19,7 @@ Includes 4 chain options.
 - Finally, use the "Limiter" macro to taste.
   - (These effects can be LOUD, so this option is recommended)
 
-If you want, you could also select the (R) button to the left of the rack's name for a completely randomized selection for each macro, excluding the "Limiter" macro.
+If you want, you could also select the (R) button to the right of the rack's name for a completely randomised selection for each macro, excluding the "Limiter" macro.
 
 ## Installation
 ### Windows
@@ -36,7 +36,7 @@ If you want, you could also select the (R) button to the left of the rack's name
     [Ableton User Library]\Presets\Audio Effects\Audio Effect Rack
     ```
 - Then, go to the [Releases page](https://github.com/fonkley/chainmeup/releases/)
-  - Download `Chain.me.up.adg` from the lastest release.
+  - Download `Chain.me.up.adg` from the latest release.
 <br> </br>
 - Finally, move the `Chain.me.up.adg` file from your downloads folder, to the `\Audio Effect Rack` directory.
 <br> </br>
@@ -54,6 +54,6 @@ If you want, you could also select the (R) button to the left of the rack's name
     [Ableton User Library]/Presets/Audio Effects/Audio Effect Rack
     ```
 - Then, go to the [Releases page](https://github.com/fonkley/chainmeup/releases/)
-  - Download `Chain.me.up.adg` from the lastest release.
+  - Download `Chain.me.up.adg` from the latest release.
 <br> </br>
 - Finally, move the `Chain.me.up.adg` file from your downloads folder, to the `/Audio Effect Rack` directory.
