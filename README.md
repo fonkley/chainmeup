@@ -6,7 +6,7 @@ This is an attempt at creating a custom Effect Rack that should be good for any 
 Includes 4 chain options.
 
 
-<img src="./example.webm" width="256" />
+<img src="./example.jpg" width="256" />
 </div>
 
 ## Requirements
